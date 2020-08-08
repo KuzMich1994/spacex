@@ -226,16 +226,4 @@ body {
   .features {
     margin: 0;
   }
-  .overview .features-title {
-    margin-left: 20px;
-  }
-  .overview .table {
-    margin-left: 20px;
-  }
-  .overview .rocket {
-    margin-left: 20px;
-  }
-  .overview .features-text {
-    margin-left: 20px;
-  }
 }
