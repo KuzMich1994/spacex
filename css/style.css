@@ -226,4 +226,7 @@ body {
   .features {
     margin: 0;
   }
+  .overview {
+    padding-left: 10px;
+  }
 }
